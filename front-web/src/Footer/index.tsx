@@ -9,13 +9,13 @@ function Footer() {
         <footer className="main-footer">
             App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
-                <a href="youtube" target="_new">
+                <a href="https://www.youtube.com/channel/UCiZyPUvs9shna_-VRy3NrsA" target="_new">
                     <YoutubeIcon />
                 </a>
-                <a href="Linkedin" target="_new">
+                <a href="https://www.linkedin.com/in/renatobgjunior/" target="_new">
                     <LinkedinIcon />
                 </a>
-                <a href="Instagram" target="_new">
+                <a href="https://www.instagram.com/renatobgallojr/" target="_new">
                     <InstagramIcon />
                 </a>
             </div>
